@@ -35,5 +35,22 @@ You can create an environment with these dependencies using the `requirements.tx
 3.	SUMO Installation:
    o	Follow the instructions on the SUMO website to install SUMO.
    o	Ensure that TraCI is properly set up to interact with Python.
+### Running the Simulation
+## Step 1: Configuration
+Before running the simulation, ensure that the configuration file is updated with the correct parameters based on your desired simulation scenario.
+##Step 2: Pre-Simulation Setup
+Run the before_Simulation.py script to set up the simulation environment and generate the required data.
+python before_Simulation.py
+##Step 3: Running the Main Simulation
+Once the setup is complete, run the project_main.py script to start the task offloading simulation.
+python project_main.py
+###Example Usage
+To run the full simulation pipeline, use the following commands:
+python before_Simulation.py  # Prepare the simulation environment
+python project_main.py  # Start the task offloading simulation
+The simulation results, including task completion times and failure rates, will be saved in the results/ directory.
+###Notes:
+•	The before_Simulation.py script sets up the simulation environment, so it must be run before starting the main simulation.
+•	Ensure that SUMO and TraCI are installed and configured correctly before running the simulation.
 
 
