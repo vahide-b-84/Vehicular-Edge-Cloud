@@ -42,32 +42,21 @@ You can create an environment with these dependencies using the `requirements.tx
    - Ensure that TraCI is properly set up to interact with Python.
 
 ## Running the Simulation
-
-### Step 1: Configuration
+Step 1: Configuration
 Before running the simulation, ensure that the configuration file is updated with the correct parameters based on your desired simulation scenario.
 
-### Step 2: Pre-Simulation Setup
-Run the `before_Simulation.py` script to set up the simulation environment and generate the required data:
+Step 2: Pre-Simulation Setup
+Run the before_Simulation.py script to set up the simulation environment and generate the required data. For this, use the command:python before_Simulation.py
 
-```bash
-python before_Simulation.py
+Step 3: Running the Main Simulation
+Once the setup is complete, run the project_main.py script to start the task offloading simulation. You can do this by executing:python project_main.py
 
-### Step 3: Running the Main Simulation
-Once the setup is complete, run the project_main.py script to start the task offloading simulation:
 
-```bash
-python project_main.py
 
-## Example usage
-To run the full simulation pipeline, use the following commands:
-```bash
-python before_Simulation.py  # Prepare the simulation environment
-python project_main.py  # Start the task offloading simulation
 The simulation results, including task completion times and failure rates, will be saved in the results/ directory.
 
-## Notes:
+Notes:
 
-- **The before_Simulation.py script sets up the simulation environment, so it must be run before starting the main simulation.
+The before_Simulation.py script sets up the simulation environment, so it must be run before starting the main simulation.
 
-- **Ensure that SUMO and TraCI are installed and configured correctly before running the simulation.
-
+Ensure that SUMO and TraCI are installed and configured correctly before running the simulation.
