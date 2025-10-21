@@ -1,0 +1,9002 @@
+[
+    {
+        "vehicle_id": "v_1",
+        "time": 0,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 0,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 0,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 0,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 1,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 1,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 2,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 2,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 3,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 3,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 3,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 3,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 4,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 4,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 5,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 5,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 5,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 6,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 6,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 7,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 8,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 8,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 8,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 8,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 9,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 9,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 9,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 10,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 11,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 11,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 11,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 11,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 13,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 13,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 13,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 13,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 13,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 13,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 13,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 13,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 15,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 15,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 15,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 17,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 18,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 18,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 18,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 18,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 18,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 18,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 18,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 19,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 19,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 19,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 19,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 19,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 20,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 20,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 20,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 20,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 20,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 20,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 21,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 21,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 21,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 22,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 22,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 22,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 23,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 23,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 23,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 25,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 25,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 25,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 25,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 25,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 26,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 27,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 27,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 28,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 29,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 29,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 29,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 30,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 30,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 31,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 31,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 31,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 31,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 32,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 33,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 33,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 33,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 33,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 33,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 34,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 34,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 34,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 34,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 35,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 35,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 35,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 36,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 36,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 36,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 37,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 38,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 38,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 39,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 40,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 40,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 40,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 41,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 41,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 41,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 41,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 42,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 42,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 43,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 43,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 43,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 43,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 43,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 44,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 45,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 45,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 45,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 45,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 46,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 46,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 46,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 47,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 47,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 47,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 48,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 48,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 49,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 49,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 49,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 49,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 50,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 50,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 50,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 50,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 50,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 50,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 50,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 50,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 51,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 51,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 51,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 51,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 51,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 51,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 51,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 52,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 52,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 52,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 53,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 53,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 53,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 54,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 55,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 56,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 56,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 57,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 57,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 57,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 57,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 57,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 58,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 58,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 58,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 58,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 59,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 59,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 59,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 59,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 60,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 61,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 61,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 61,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 61,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 61,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 62,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 62,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 62,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 63,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 63,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 64,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 64,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 65,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 65,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 65,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 66,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 66,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 67,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 67,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 67,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 67,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 68,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 68,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 69,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 69,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 69,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 69,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 70,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 70,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 71,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 72,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 73,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 73,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 73,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 74,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 74,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 74,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 74,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 74,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 74,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 75,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 76,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 76,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 77,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 77,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 77,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 77,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 77,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 78,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 78,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 78,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 78,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 79,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 79,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 79,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 79,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 79,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 79,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 79,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 80,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 80,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 80,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 80,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 81,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 82,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 82,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 82,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 83,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 83,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 83,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 84,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 84,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 84,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 84,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 85,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 86,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 86,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 86,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 87,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 88,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 89,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 89,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 89,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 90,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 90,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 91,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 91,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 91,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 91,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 92,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 92,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 93,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 93,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 93,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 93,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 94,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 94,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 95,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 95,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 96,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 96,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 96,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 96,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 96,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 97,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 98,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 98,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 98,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 98,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 98,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 98,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 99,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 100,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 100,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 101,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 102,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 102,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 102,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 103,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 103,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 103,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 104,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 104,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 104,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 104,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 104,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 105,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 106,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 107,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 107,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 108,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 108,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 108,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 109,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 109,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 109,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 109,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 109,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 110,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 110,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 110,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 110,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 110,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 111,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 111,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 111,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 111,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 111,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 111,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 112,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 112,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 113,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 113,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 114,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 114,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 114,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 114,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 115,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 115,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 115,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 116,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 116,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 116,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 116,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 116,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 117,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 117,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 118,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 118,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 118,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 118,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 118,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 119,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 119,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 120,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 120,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 120,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 120,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 121,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 121,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 122,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 122,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 123,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 123,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 123,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 124,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 124,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 124,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 124,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 124,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 124,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 125,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 125,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 125,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 125,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 126,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 126,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 126,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 126,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 126,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 126,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 127,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 127,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 127,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 128,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 128,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 128,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 129,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 130,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 130,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 130,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 130,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 130,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 130,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 131,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 132,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 132,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 133,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 133,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 133,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 133,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 134,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 134,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 134,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 134,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 134,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 134,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 135,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 135,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 136,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 136,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 137,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 137,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 138,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 139,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 139,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 139,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 140,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 140,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 141,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 141,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 141,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 142,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 142,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 143,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 143,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 143,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 143,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 143,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 144,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 144,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 145,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 145,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 145,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 146,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 146,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 146,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 146,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 147,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 148,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 148,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 148,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 150,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 150,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 150,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 151,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 151,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 151,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 151,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 152,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 152,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 153,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 153,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 153,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 153,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 153,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 154,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 154,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 154,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 154,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 154,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 155,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 157,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 157,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 158,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 158,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 159,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 159,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 159,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 160,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 160,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 160,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 161,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 162,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 162,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 163,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 163,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 163,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 163,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 164,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 165,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 165,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 166,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 166,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 167,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 167,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 168,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 168,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 169,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 169,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 169,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 170,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 170,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 170,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 171,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 172,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 172,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 173,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 173,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 173,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 173,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 173,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 174,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 174,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 176,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 176,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 176,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 177,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 177,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 177,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 177,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 178,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 178,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 178,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 178,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 178,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 178,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 178,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 180,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 180,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 180,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 181,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 181,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 181,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 182,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 182,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 182,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 183,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 183,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 184,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 184,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 185,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 185,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 186,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 187,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 187,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 187,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 187,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 188,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 189,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 189,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 190,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 190,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 190,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 190,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 190,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 190,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 190,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 191,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 191,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 192,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 192,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 192,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 193,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 194,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 194,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 195,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 196,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 196,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 196,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 197,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 197,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 197,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 197,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 197,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 197,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 197,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 198,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 198,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 199,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 199,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 199,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 199,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 200,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 200,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 200,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 201,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 202,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 202,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 202,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 202,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 203,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 203,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 203,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 204,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 205,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 205,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 206,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 206,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 206,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 206,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 206,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 208,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 208,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 208,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 209,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 209,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 209,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 209,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 209,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 209,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 209,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 210,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 210,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 210,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 210,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 210,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 211,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 211,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 211,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 211,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 211,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 211,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 211,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 212,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 212,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 212,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 212,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 213,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 213,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 213,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 213,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 213,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 214,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 214,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 214,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 214,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 214,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 214,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 215,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 215,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 216,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 216,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 216,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 217,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 217,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 218,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 219,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 219,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 219,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 220,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 220,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 220,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 221,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 221,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 221,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 222,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 222,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 223,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 223,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 224,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 224,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 224,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 225,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 225,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 225,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 225,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 226,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 226,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 226,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 226,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 226,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 226,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 226,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 226,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 227,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 227,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 227,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 229,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 229,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 230,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 231,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 231,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 231,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 231,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 231,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 232,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 232,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 232,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 232,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 232,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 232,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 232,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 232,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 232,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 232,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 233,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 233,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 234,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 235,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 235,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 235,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 235,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 236,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 236,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 237,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 237,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 237,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 237,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 237,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 238,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 239,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 239,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 239,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 240,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 240,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 240,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 240,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 241,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 241,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 241,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 241,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 241,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 241,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 242,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 242,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 242,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 242,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 242,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 242,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 242,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 243,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 243,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 243,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 243,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 244,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 245,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 245,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 246,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 247,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 247,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 248,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 248,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 248,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 248,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 249,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 249,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 249,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 249,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 249,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 249,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 250,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 250,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 250,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 250,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 250,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 251,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 251,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 251,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 251,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 252,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 253,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 253,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 253,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 253,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 254,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 254,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 254,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 254,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 254,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 254,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 254,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 255,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 255,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 256,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 256,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 257,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 257,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 257,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 257,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 257,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 257,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 258,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 258,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 258,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 258,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 259,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 259,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 259,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 259,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 260,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 261,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 261,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 261,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 261,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 261,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 262,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 262,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 263,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 263,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 264,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 265,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 266,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 266,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 266,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 269,
+        "interarrival_time": 3
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 269,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 270,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 270,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 270,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 271,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 271,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 272,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 272,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 272,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 272,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 272,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 273,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 273,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 273,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 274,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 274,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 274,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 275,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 276,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 276,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 276,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 277,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 277,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 277,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 278,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 278,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 278,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 278,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 278,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 278,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 278,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 278,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 279,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 279,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 279,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 280,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 280,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 280,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 281,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 281,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 281,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 281,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 281,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 281,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 282,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 282,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 282,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 283,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 283,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 284,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 284,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 284,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 284,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 284,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 284,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 284,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 285,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 285,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 286,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 286,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 286,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 286,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 286,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 287,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 287,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 287,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 288,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 288,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 289,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 290,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 291,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 291,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 291,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 291,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 292,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 292,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 292,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 292,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 293,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 293,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 293,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 293,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 293,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 294,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 294,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 295,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 296,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 296,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 296,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 298,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 298,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 298,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 299,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 299,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 299,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 299,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 299,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 299,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 299,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 299,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 299,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 299,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 299,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 300,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 301,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 301,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 302,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 302,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 303,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 303,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 303,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 303,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 304,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 304,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 304,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 305,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 305,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 306,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 307,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 307,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 309,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 309,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 309,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 310,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 310,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 311,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 311,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 311,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 312,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 312,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 313,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 313,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 314,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 314,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 314,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 314,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 314,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 315,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 315,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 316,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 316,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 316,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 316,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 316,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 317,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 317,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 317,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 317,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 318,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 319,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 319,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 319,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 320,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 320,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 321,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 322,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 322,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 322,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 323,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 323,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 323,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 324,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 324,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 324,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 325,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 325,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 325,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 325,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 326,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 327,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 327,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 327,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 327,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 328,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 329,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 329,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 330,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 331,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 332,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 332,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 332,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 332,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 333,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 333,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 333,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 333,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 333,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 334,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 334,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 334,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 334,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 334,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 335,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 335,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 335,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 335,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 336,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 336,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 336,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 337,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 337,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 338,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 338,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 338,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 340,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 340,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 340,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 341,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 341,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 342,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 343,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 343,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 343,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 343,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 343,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 344,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 344,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 346,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 346,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 346,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 346,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 346,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 347,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 348,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 348,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 348,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 348,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 349,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 350,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 350,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 350,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 350,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 350,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 351,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 351,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 351,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 351,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 351,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 352,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 352,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 352,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 352,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 353,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 353,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 353,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 354,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 354,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 354,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 354,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 355,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 355,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 356,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 356,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 356,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 356,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 356,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 357,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 357,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 357,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 357,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 357,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 357,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 357,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 358,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 358,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 359,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 360,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 360,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 360,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 360,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 360,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 360,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 360,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 362,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 362,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 362,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 362,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 363,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 363,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 363,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 364,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 365,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 365,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 365,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 366,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 367,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 367,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 368,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 368,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 369,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 369,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 370,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 370,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 371,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 371,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 372,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 372,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 372,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 372,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 372,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 373,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 373,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 373,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 374,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 374,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 375,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 375,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 375,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 375,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 376,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 376,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 376,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 376,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 377,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 377,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 378,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 378,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 380,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 380,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 380,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 381,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 381,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 382,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 382,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 382,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 382,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 383,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 383,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 383,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 383,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 383,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 384,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 384,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 384,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 385,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 385,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 385,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 385,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 385,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 386,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 386,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 386,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 388,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 388,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 389,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 389,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 390,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 390,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 390,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 390,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 390,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 390,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 390,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 391,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 391,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 392,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 392,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 393,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 393,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 394,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 394,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 394,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 395,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 396,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 396,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 397,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 397,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 397,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 397,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 397,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 398,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 398,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 398,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 398,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 399,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 399,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 400,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 401,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 401,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 402,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 402,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 402,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 403,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 403,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 404,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 404,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 404,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 404,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 404,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 405,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 405,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 405,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 406,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 406,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 407,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 407,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 408,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 408,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 408,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 408,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 408,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 408,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 409,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 409,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 409,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 409,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 409,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 409,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 409,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 410,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 410,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 411,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 412,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 412,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 413,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 413,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 413,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 414,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 414,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 415,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 415,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 415,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 416,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 416,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 417,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 417,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 418,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 418,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 418,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 419,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 419,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 419,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 420,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 420,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 420,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 420,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 421,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 421,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 421,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 422,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 423,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 424,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 424,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 425,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 425,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 425,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 426,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 426,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 426,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 427,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 427,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 427,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 427,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 428,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 428,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 429,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 429,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 429,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 430,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 430,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 430,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 430,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 430,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 431,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 431,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 431,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 431,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 431,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 431,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 431,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 432,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 432,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 432,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 432,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 433,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 434,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 435,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 435,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 435,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 435,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 436,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 436,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 437,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 438,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 438,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 438,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 438,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 439,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 439,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 441,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 442,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 442,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 444,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 444,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 444,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 444,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 445,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 445,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 445,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 445,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 445,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 445,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 445,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 447,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 447,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 448,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 448,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 448,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 448,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 448,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 449,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 449,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 449,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 449,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 449,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 449,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 450,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 450,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 450,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 450,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 450,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 450,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 451,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 451,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 451,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 451,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 452,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 452,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 452,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 453,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 453,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 453,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 454,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 455,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 455,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 455,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 456,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 456,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 456,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 457,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 457,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 457,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 458,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 459,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 459,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 460,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 460,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 460,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 461,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 461,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 462,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 464,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 464,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 464,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 465,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 465,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 465,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 465,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 465,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 467,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 467,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 467,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 467,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 468,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 468,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 468,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 468,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 469,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 469,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 470,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 470,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 470,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 470,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 470,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 470,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 471,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 471,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 471,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 472,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 472,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 473,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 473,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 473,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 474,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 475,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 475,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 475,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 477,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 478,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 478,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 479,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 480,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 480,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 480,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 480,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 481,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 481,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 481,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 482,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 482,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 482,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 483,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 483,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 483,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 483,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 484,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 484,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 484,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 484,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 484,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 484,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 485,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 486,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 486,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 486,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 487,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 488,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 488,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 489,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 489,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 489,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 489,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 490,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 491,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 491,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 491,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 492,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 492,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 493,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 493,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 494,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 495,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 495,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 495,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 496,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 496,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 497,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 497,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 498,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 499,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 499,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 499,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 500,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 500,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 500,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 500,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 500,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 501,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 502,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 503,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 503,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 504,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 504,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 506,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 506,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 506,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 506,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 506,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 506,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 507,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 507,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 508,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 508,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 511,
+        "interarrival_time": 3
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 511,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 512,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 512,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 512,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 512,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 512,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 512,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 512,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 512,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 512,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 513,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 514,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 514,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 514,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 515,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 515,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 515,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 516,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 516,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 516,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 517,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 517,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 517,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 517,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 519,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 519,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 519,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 519,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 520,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 520,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 520,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 520,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 521,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 521,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 521,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 521,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 522,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 523,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 523,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 523,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 524,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 524,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 525,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 525,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 526,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 527,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 527,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 527,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 527,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 528,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 528,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 529,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 530,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 530,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 530,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 531,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 531,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 531,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 531,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 531,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 531,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 532,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 532,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 532,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 532,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 533,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 533,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 533,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 533,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 534,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 534,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 535,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 535,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 535,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 536,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 536,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 536,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 536,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 537,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 538,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 538,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 538,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 538,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 539,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 539,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 539,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 539,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 540,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 540,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 541,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 541,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 541,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 541,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 542,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 542,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 543,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 543,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 543,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 543,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 543,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 543,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 543,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 544,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 545,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 545,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 545,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 545,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 546,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 547,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 547,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 547,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 547,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 548,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 548,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 548,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 549,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 549,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 550,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 550,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 550,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 550,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 550,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 551,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 551,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 552,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 552,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 552,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 552,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 553,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 553,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 553,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 554,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 554,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 554,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 555,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 555,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 555,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 556,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 556,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 556,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 557,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 557,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 558,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 558,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 558,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 558,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 559,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 559,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 561,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 561,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 561,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 562,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 562,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 562,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 563,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 563,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 563,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 564,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 564,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 565,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 566,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 566,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 566,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 566,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 566,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 566,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 566,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 566,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 567,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 567,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 567,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 568,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 568,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 569,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 570,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 570,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 571,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 571,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 572,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 572,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 572,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 572,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 573,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 573,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 573,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 574,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 574,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 574,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 575,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 575,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 576,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 576,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 577,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 577,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 577,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 577,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 578,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 578,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 579,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 579,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 580,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 582,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 582,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 582,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 582,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 582,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 583,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 583,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 583,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 583,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 583,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 584,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 584,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 585,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 585,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 585,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 586,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 587,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 587,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 588,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 588,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 589,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 589,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 590,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 590,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 591,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 592,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 592,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 593,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 593,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 594,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 594,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 594,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 594,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 594,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 595,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 596,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 596,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 596,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 596,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 597,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 597,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 597,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 597,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 597,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 598,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 598,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 599,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 599,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 600,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 600,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 600,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 601,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 602,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 603,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 604,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 604,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 604,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 604,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 604,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 605,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 606,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 606,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 606,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 606,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 606,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 607,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 607,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 607,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 607,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 607,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 607,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 607,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 608,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 608,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 608,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 609,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_0",
+        "time": 610,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 610,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 610,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 611,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 611,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 611,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 611,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 611,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 611,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 613,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 615,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 616,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 616,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 617,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 618,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 618,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 619,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 619,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 619,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 621,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 621,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 622,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 622,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 624,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 624,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 624,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 624,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 625,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 625,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 626,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 626,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 626,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 626,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 627,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 628,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 628,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 629,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 630,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 631,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 631,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 632,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 632,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 633,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 634,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 635,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 635,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 635,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 635,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 636,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 636,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 638,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 638,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 638,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 638,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 640,
+        "interarrival_time": 2
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 640,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 640,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 640,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 640,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 641,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_1",
+        "time": 641,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 641,
+        "interarrival_time": 0
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 642,
+        "interarrival_time": 1
+    },
+    {
+        "vehicle_id": "v_2",
+        "time": 644,
+        "interarrival_time": 2
+    }
+]

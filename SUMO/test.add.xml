@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-08-10 11:07:35 by Eclipse SUMO netedit Version 1.22.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- Other additionals -->
+    <rerouter id="rr_0" edges="E21" pos="-2464.94,739.49">
+        <interval begin="0.00" end="3600.00">
+            <destProbReroute id="E14" probability="1.00"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_1" edges="E14" pos="-3844.34,-156.36">
+        <interval begin="0.00" end="3600.00">
+            <destProbReroute id="-E19" probability="1.00"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_2" edges="-E19" pos="-3802.14,-819.74">
+        <interval begin="0.00" end="3600.00">
+            <destProbReroute id="E21" probability="1.00"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_3" edges="-E15" pos="-3823.76,-164.14">
+        <interval begin="0.00" end="3600.00">
+            <destProbReroute id="E0" probability="1.00"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_5" edges="E0" pos="-997.58,3.23">
+        <interval begin="0.00" end="3600.00">
+            <destProbReroute id="-E15" probability="1.00"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_6" edges="E15" pos="-2457.40,-33.16">
+        <interval begin="0.00" end="3600.00">
+            <destProbReroute id="E25" probability="1.00"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_7" edges="E25" pos="-790.89,-2004.25">
+        <interval begin="0.00" end="3600.00">
+            <destProbReroute id="E15" probability="1.00"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_8" edges="E19" pos="-3831.10,-184.62"/>
+    <!-- Shapes -->
+    <poi id="poi_0" icon="pin" color="blue" layer="202.00" x="747.81" y="762.78" width="30.00"/>
+    <poi id="poi_1" icon="pin" color="blue" layer="202.00" x="-1171.78" y="-562.44" width="30.00"/>
+    <poi id="poi_2" icon="pin" color="blue" layer="202.00" x="-2969.21" y="790.69" width="30.00"/>
+    <poi id="poi_3" icon="pin" color="blue" layer="202.00" x="-3154.80" y="-819.41" width="30.00"/>
+    <poi id="poi_4" icon="pin" color="blue" layer="202.00" x="-1917.82" y="-2134.85" width="30.00"/>
+    <poi id="poi_5" icon="pin" color="blue" layer="202.00" x="-3.56" y="-2089.33" width="30.00"/>
+    <poi id="poi_6" icon="pin" color="blue" layer="202.00" x="-1072.00" y="866.09" width="30.00"/>
+    <poi id="poi_7" icon="pin" color="blue" layer="202.00" x="719.44" y="-772.69" width="30.00"/>
+</additional>
