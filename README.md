@@ -16,6 +16,7 @@ Before running this project, ensure that the following tools and libraries are i
 - Python 3.10.18 (or newer)
 - Anaconda (for managing the Python environment)
 - SUMO (for vehicular mobility simulation)
+- TraCI (for connecting Python to SUMO)
 - SimPy (for discrete event simulation)
 - PyTorch (for implementing the DQN models)
 - NumPy, SciPy, Pandas, Matplotlib, Openpyxl, Subprocess, and OS (for various Python tasks)
