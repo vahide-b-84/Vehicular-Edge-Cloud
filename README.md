@@ -30,4 +30,10 @@ You can create an environment with these dependencies using the `requirements.tx
    ```bash
    git clone https://github.com/username/Vehicular-Edge-Cloud.git
    cd Vehicular-Edge-Cloud
+2.	Install the required dependencies:
+   pip install -r requirements.txt
+3.	SUMO Installation:
+   o	Follow the instructions on the SUMO website to install SUMO.
+   o	Ensure that TraCI is properly set up to interact with Python.
+
 
