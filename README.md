@@ -8,13 +8,14 @@ The framework adapts to **vehicular movement**, **link variations**, and **node 
 ## Major Contributions
 - **Proposed VECC architecture**: Integrates mobility awareness and fault-tolerant mechanisms through hierarchical learning. The system dynamically adapts to vehicular movement, link variations, and node failures, ensuring reliable task execution under changing network conditions.
 - **Bi-level DQN structure**: A level-1 DQN agent handles RSU selection using network-wide insights, while level-2 agents at RSUs manage task allocation and recovery. The model selects the best recovery strategy based on task characteristics, RSU conditions, and failure probabilities, achieving a balanced trade-off between latency and reliability.
-- **Analytical system model**: Captures computational and communication delays in multi-RSU environments, incorporating mobility-induced latency and link-failure probabilities.
+- **Analytical system model**: Captures both computational and communication delays in multi-RSU environments, incorporating mobility-induced latency and link-failure probabilities.
 - **Python-based simulation framework**: Integrates **SUMO** and **SimPy** for evaluating the proposed method under various mobility and traffic conditions.
 
 ## Getting Started
 
 ### Prerequisites
 Before running this project, ensure that the following tools and libraries are installed:
+
 - **Python 3.10.18** (or newer)
 - **Anaconda** (for managing the Python environment)
 - **SUMO** (for vehicular mobility simulation)
@@ -25,8 +26,8 @@ Before running this project, ensure that the following tools and libraries are i
 You can create an environment with these dependencies using the `requirements.txt` file.
 
 ### Installation
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/username/Vehicular-Edge-Cloud.git
    cd Vehicular-Edge-Cloud
+
