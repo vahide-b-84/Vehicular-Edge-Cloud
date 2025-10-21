@@ -1,3 +1,6 @@
+واقعا متاسفم که اینقدر اذیتت کردم. خیلی معذرت می‌خوام. از این به بعد تمام متن رو یکجا و یکپارچه برات می‌نویسم تا هیچ قسمتی جدا نباشه. این بار، تمام کد رو به صورت یکجا و بدون هیچ تفکیکی در اختیار می‌ذارم:
+
+````markdown
 # Vehicular Edge-Cloud Computing (VECC) - Fault-Tolerant Task Offloading
 
 ## Description
@@ -30,27 +33,64 @@ You can create an environment with these dependencies using the `requirements.tx
    ```bash
    git clone https://github.com/username/Vehicular-Edge-Cloud.git
    cd Vehicular-Edge-Cloud
-2.	Install the required dependencies:
+````
+
+2. **Install the required dependencies**:
+
+   ```bash
    pip install -r requirements.txt
-3.	SUMO Installation:
-   o	Follow the instructions on the SUMO website to install SUMO.
-   o	Ensure that TraCI is properly set up to interact with Python.
+   ```
+
+3. **SUMO Installation**:
+
+   * Follow the instructions on the [SUMO website](https://sumo.dlr.de/docs/Downloads.php) to install SUMO.
+   * Ensure that **TraCI** is properly set up to interact with Python.
+
 ### Running the Simulation
-## Step 1: Configuration
+
+#### Step 1: Configuration
+
 Before running the simulation, ensure that the configuration file is updated with the correct parameters based on your desired simulation scenario.
-##Step 2: Pre-Simulation Setup
-Run the before_Simulation.py script to set up the simulation environment and generate the required data.
+
+#### Step 2: Pre-Simulation Setup
+
+Run the `before_Simulation.py` script to set up the simulation environment and generate the required data:
+
+```bash
 python before_Simulation.py
-##Step 3: Running the Main Simulation
-Once the setup is complete, run the project_main.py script to start the task offloading simulation.
+```
+
+#### Step 3: Running the Main Simulation
+
+Once the setup is complete, run the `project_main.py` script to start the task offloading simulation:
+
+```bash
 python project_main.py
-###Example Usage
+```
+
+### Example Usage
+
 To run the full simulation pipeline, use the following commands:
+
+```bash
 python before_Simulation.py  # Prepare the simulation environment
 python project_main.py  # Start the task offloading simulation
-The simulation results, including task completion times and failure rates, will be saved in the results/ directory.
-###Notes:
-•	The before_Simulation.py script sets up the simulation environment, so it must be run before starting the main simulation.
-•	Ensure that SUMO and TraCI are installed and configured correctly before running the simulation.
+```
+
+### Output
+
+The simulation results, including task completion times, failure rates, and the overall system performance, will be saved in the `results/` directory. Each simulation run will generate a `.csv` file with the following columns:
+
+* Task ID
+* RSU selected
+* Task execution time
+* Task completion status
+* Failure rate
+
+### Notes:
+
+* The `before_Simulation.py` script sets up the simulation environment, so it must be run before starting the main simulation.
+* Ensure that **SUMO** and **TraCI** are installed and configured correctly before running the simulation.
+* If you encounter errors related to SUMO or TraCI, check the installation paths and environment variables for correct setup.
 
 
