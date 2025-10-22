@@ -21,8 +21,7 @@ class global_model:
         self.epsilon_end = params.Global['epsilon_end']
         self.epsilon_decay = params.Global['epsilon_decay']
         self.hidden_layers = params.Global['hidden_layers']
-        #self.warmup_episodes=params.Global['warmup_episodes']
-        #self.load_penalty_weight =params.Global['load_penalty_weight']
+
         self.current_epsilon=self.epsilon_start
 
         self.rsu_selection_history = []
@@ -54,10 +53,6 @@ class global_model:
             hidden_layers=self.hidden_layers
         )
 
-    '''def get_epsilon(self, episode):
-        # Linear decay instead of exponential
-        epsilon = max(self.epsilon_end, self.epsilon_start - (episode / self.epsilon_decay))
-        return epsilon'''
     
     def update_episode_epsilon(self,episode):
         epsilon = max(self.epsilon_end, self.epsilon_start - (episode / self.epsilon_decay))
@@ -99,9 +94,7 @@ class global_model:
 
                 self.tempbuffer[task_counter] = (s, a, reward, s_next)
                 self.agent.store_transition((s, a, reward, s_next))
-                # again, only train if warmed up
-                #if this_episode > self.warmup_episodes:
-                    #self.agent.train_step()
+
                 self.agent.train_step()
                 removeList.append((taskid, task_counter))
                 
@@ -244,9 +237,9 @@ class global_model:
         max_counter = max(
             [self.env_state.RSU_and_Vehicle.get_rsu_by_id(r).taskCounter for r in candidate_rsus]
         ) or 1
-        max_delay = 1  # اینو بعداً به‌روز می‌کنیم در حلقه
+        max_delay = 1  # 
 
-        # اول: محاسبه تاخیر E2E برای هر کاندید
+        # 
         delays = {}
         for rsu_id in candidate_rsus:
             if rsu_id == task.original_RSU.rsu_id:
@@ -259,9 +252,9 @@ class global_model:
             if delay > max_delay:
                 max_delay = delay
 
-        # ترکیب taskCounter و e2e delay
-        a = 0.6  # وزن برای بار تجمعی
-        b = 0.4  # وزن برای تاخیر شبکه
+        # 
+        a = 0.6  # 
+        b = 0.4  # 
 
         for rsu_id in candidate_rsus:
             rsu = self.env_state.RSU_and_Vehicle.get_rsu_by_id(rsu_id)

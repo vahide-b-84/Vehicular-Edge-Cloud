@@ -29,8 +29,7 @@ class RSU:
         self.epsilon_start = params.Local['epsilon_start']
         self.epsilon_end = params.Local['epsilon_end']
         self.epsilon_decay = params.Local['epsilon_decay']
-        #self.warmup_episodes=params.Local['warmup_episodes']
-        #self.epsilon=params.Local['epsilon']
+
 
         self.state = []
         self.action = None
@@ -140,7 +139,7 @@ class RSU:
             else:
                 flag = "n"
 
-        # reward constants DQN1
+        # reward constants DQN
         success_reward_weight = 1.0
         failure_penalty_weight = 20.0
         max_success_reward = 30.0
@@ -165,7 +164,6 @@ class RSU:
         return reward, delay
 
     def add_train(self, episode):
-        #if episode > self.warmup_episodes and len(self.local_model.replay_buffer) > 0:
         if len(self.local_model.replay_buffer) > 0:
             self.local_model.train_step()
 
@@ -190,12 +188,6 @@ class RSU:
 
                 s, a, r, s_ = self.tempbuffer[task_counter]
                 self.local_model.store_transition((s, a, r, s_))
-
-
-             
-                # again, only train if warmed up
-                '''if episode > self.warmup_episodes:
-                    self.local_model.train_step()'''
                 
                 self.local_model.train_step()
                 removeList.append((taskid, task_counter))
@@ -219,17 +211,13 @@ class RSU:
         task.selected_rsu_start_time = self.env.now 
     
     def receive_result(self, task):
-        #delay = 0 if task.selected_RSU.rsu_id == self.rsu_id else self.env_state.calculate_e2e_delay(task.selected_RSU.rsu_id, self.rsu_id, params.task_result_size)
         delay = 0 if task.selected_RSU.rsu_id == self.rsu_id else 1
         yield self.env.timeout(delay)
         self.cached_results[task.id] = task
-        #logger.info(f"                  {self.rsu_id} cached result of Task {task.id} at {self.env.now}")
-        #self.env.process(self.remove_cached_result(task.id, params.task_timeout_caching))
 
     def remove_cached_result(self, task_id, timeout):
         yield self.env.timeout(timeout)
         self.cached_results.pop(task_id, None)
-        #logger.info(f"RSU {self.rsu_id} pop cached result of Task {task_id} at {self.env.now}")
 
     def process_pendingList_and_log_result(self, episode):
         if self.taskCounter > 0:

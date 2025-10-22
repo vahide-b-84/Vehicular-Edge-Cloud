@@ -9,21 +9,10 @@ import simpy
 import pandas as pd
 from RSU_Vehicle_Setup import RSU_and_Vehicle_setup 
 from Global_model import global_model
-#import logging
+
 import traci
 from save import save_params_and_logs  # Import from current directory
 
-
-'''log_file_path = "vehicle.log"
-
-if os.path.exists(log_file_path):
-    os.remove(log_file_path)
-logging.basicConfig(
-    filename=log_file_path, 
-    level=logging.INFO, 
-    format=" %(message)s"   #  "%(asctime)s - %(name)s - %(levelname)s -%(message)s"
-)
-logger = logging.getLogger(__name__)'''
 
 class MainLoop:
     def __init__(self):

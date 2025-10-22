@@ -32,10 +32,7 @@ def save_params_and_logs(params, log_data_global, task_Assignments_info_global, 
         raise KeyError(f"No episode column found. Tried {candidates}")
 
     def write_task_assignments_latest(filename: str, df, base_sheet_name="TaskAssignments", episode_col: str=None, episode_value: int=None):
-        """
-        محتویات شیت TaskAssignments را کاملاً جایگزین می‌کند تا فقط رکوردهای «آخرین اپیزود» بماند.
-        اگر episode_value داده نشود، از بیشینه‌ی ستون episode در df استفاده می‌کند.
-        """
+    
         if df is None or len(df) == 0:
             return
 
@@ -53,7 +50,6 @@ def save_params_and_logs(params, log_data_global, task_Assignments_info_global, 
         except FileNotFoundError:
             wb = Workbook()
 
-        # حذف شیت قبلی (اگر هست) و ساخت مجدد
         if base_sheet_name in wb.sheetnames:
             wb.remove(wb[base_sheet_name])
             if not wb.sheetnames:
@@ -75,7 +71,6 @@ def save_params_and_logs(params, log_data_global, task_Assignments_info_global, 
         max_col = ws.max_column
 
         if sheet_name == 'Logs':
-            # نمودار اول: Rewardها
             chart_rewards = LineChart()
             chart_rewards.title = "Reward per Episode"
             chart_rewards.y_axis.title = 'Reward'
@@ -88,7 +83,6 @@ def save_params_and_logs(params, log_data_global, task_Assignments_info_global, 
             chart_rewards.height = 10
             ws.add_chart(chart_rewards, f"{get_column_letter(max_col+2)}2")  # مثلا ستون G
 
-            # نمودار دوم: Delayها
             chart_delays = LineChart()
             chart_delays.title = "Delay per Episode"
             chart_delays.y_axis.title = 'Delay'
@@ -102,9 +96,9 @@ def save_params_and_logs(params, log_data_global, task_Assignments_info_global, 
 
 
         elif sheet_name == 'Summary':
-            failure_col_idx = 5  # ستون E = FailureRate
-            episode_col_idx = 1  # ستون A
-            avg_col_idx = 6      # ستون F برای AVG_Failure
+            failure_col_idx = 5  #
+            episode_col_idx = 1  # 
+            avg_col_idx = 6      # 
 
             ws.cell(row=1, column=avg_col_idx, value='normal_AVG_Failure')
             ws.cell(row=1, column=avg_col_idx+1, value='AVG_Failure')
@@ -122,7 +116,7 @@ def save_params_and_logs(params, log_data_global, task_Assignments_info_global, 
             for i, val in enumerate(avg_values, start=2):
                 ws.cell(row=i, column=avg_col_idx, value=val)
                 ws.cell(row=i, column=avg_col_idx+1, value=val * ws.cell(row=i, column=4).value/100)  # calculating AVG_Failure
-            # نمودار خطی:
+      
             line_chart = LineChart()
             line_chart.title = "normal AVG Failure Rate Over Episodes"
             line_chart.style = 6
@@ -182,7 +176,6 @@ def save_params_and_logs(params, log_data_global, task_Assignments_info_global, 
     if not os.path.exists(global_filename):
         df_params = pd.DataFrame(list(vars(params).items()), columns=['Parameter', 'Value'])
 
-        # فقط آخرین اپیزود برای TaskAssignments
         ep_col = _detect_episode_col(df_new_assignments)
         last_ep = df_new_assignments[ep_col].max()
         df_last_assignments = df_new_assignments[df_new_assignments[ep_col] == last_ep].copy()
@@ -197,7 +190,6 @@ def save_params_and_logs(params, log_data_global, task_Assignments_info_global, 
 
     else:
         append_df_to_sheet(global_filename, df_new_logs, 'Logs')
-        #append_df_to_sheet(global_filename, df_new_assignments, 'TaskAssignments')
         write_task_assignments_latest(global_filename, df_new_assignments, base_sheet_name='TaskAssignments')
 
         append_df_to_sheet(global_filename, summary_df, 'Summary')
@@ -237,7 +229,7 @@ def save_params_and_logs(params, log_data_global, task_Assignments_info_global, 
         summary_rsu = summary_rsu.reindex(columns=['episode', 'Failure', 'Success'], fill_value=0)
         summary_rsu['Total'] = summary_rsu['Success'] + summary_rsu['Failure']
         summary_rsu['FailureRate'] = 100 * summary_rsu['Failure'] / summary_rsu['Total'].replace(0, 1)
-        summary_rsu = summary_rsu.fillna(0)       # برای RSUها
+        summary_rsu = summary_rsu.fillna(0)      
 
         if not os.path.exists(filename_rsu):
             # Only keep the latest episode in 'TaskAssignments' on initial creation
@@ -254,7 +246,6 @@ def save_params_and_logs(params, log_data_global, task_Assignments_info_global, 
                 summary_rsu.to_excel(writer, sheet_name='Summary', index=False)
         else:
             append_df_to_sheet(filename_rsu, df_logs_rsu, 'Logs')
-            # Replace RSU TaskAssignments sheet with latest-episode-only records
             write_task_assignments_latest(filename_rsu, df_assignments_rsu, base_sheet_name='TaskAssignments')
             append_df_to_sheet(filename_rsu, summary_rsu, 'Summary')
 
