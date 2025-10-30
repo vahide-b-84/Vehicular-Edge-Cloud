@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this simulator or its results, please cite it as below."
+authors:
+  - family-names: "Babaiyan"
+    given-names: "Vahide"
+    orcid: "https://orcid.org/0000-0001-5390-8571"
+title: "A Bi-Level Mobility-Aware Deep Reinforcement Learning Approach for Fault-Tolerant Task Offloading in Vehicular Edge-Cloud Computing: Simulation Code"
+version: 1.0.0
+date-released: 2025-10-22
+url: "https://github.com/vahide-b-84/Vehicular-Edge-Cloud"
+license: "MIT"
+keywords:
+  - "Vehicular Edge-Cloud"
+  - "Task Offloading"
+  - "Mobility-Aware"
+  - "Fault Tolerance"
+  - "Deep Reinforcement Learning"
+  - "Edge Computing"
+  - "Cloud Computing"
+
+# Uncomment and complete this section when the related paper is accepted
+# preferred-citation:
+#   type: article
+#   authors:
+#     - family-names: "Babaiyan"
+#       given-names: "Vahide"
+#   title: "A Bi-Level Mobility-Aware Deep Reinforcement Learning Approach for Fault-Tolerant Task Offloading in Vehicular Edge-Cloud Computing"
+#   journal: "Journal Name"
+#   year: 2025
+#   doi: "DOI of the article"
