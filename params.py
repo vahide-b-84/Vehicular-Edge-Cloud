@@ -6,7 +6,7 @@ class params:
     
     
    
-    model_summary = parameters.model_summary  # Options: "dqn", "original_only", "greedy"
+    model_summary = parameters.model_summary  
     min_computation_demand = None
     SCENARIO_TYPE = parameters.SCENARIO_TYPE
     Permutation_Number = parameters.Permutation_Number
@@ -50,7 +50,7 @@ class params:
 
 
 
-    # Global DQN
+    # level 1
     Global = {
         'activation': parameters.global_af,
         'hidden_layers': parameters.global_hidden_layers,
@@ -67,7 +67,7 @@ class params:
         'epsilon':parameters.global_epsilon
     }
 
-    # Local DQN
+    # level 2
     Local = {
         'activation': parameters.local_af,
         'hidden_layers': parameters.local_hidden_layers,
