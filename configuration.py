@@ -50,7 +50,7 @@ class parameters:
     }
 
 
-    # Global DQN parameters
+    # level1 DQN parameters
     global_hidden_layers = [128, 64]
     global_af = "relu"
     global_lr = 0.0003
@@ -65,7 +65,7 @@ class parameters:
     global_load_penalty_weight = 5.0
     global_epsilon=0.3
 
-    # Local DQN parameters
+    # level2 DQN parameters
     local_hidden_layers = [128, 64]
     local_af = "relu"
     local_lr = 0.0005               # 
