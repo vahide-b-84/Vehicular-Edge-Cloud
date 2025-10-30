@@ -49,7 +49,7 @@ class Task:
         self.delivered_time = None # the time result delivered to vehicle in distination location
         self.timeout_time =None
 
-        self.execution_status_flag = 'n'  # 's' یا 'f' فقط برای سرور
+        self.execution_status_flag = 'n'  # 's'/ 'f' 
         self.deadline_flag = 'N' # for global view
         self.final_status_flag = None
         self.deadline = None  # deadline for vehicle
