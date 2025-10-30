@@ -39,7 +39,7 @@ You can create an environment with these dependencies using the `requirements.tx
     ```
 
 3. **SUMO Installation**:
-   - Follow the instructions on the [SUMO website](https://www.eclipse.org/sumo/) to install SUMO.
+   - Follow the instructions on the [SUMO website](https://eclipse.dev/sumo/) to install SUMO.
    - Ensure that TraCI is properly set up to interact with Python.
 
 ## Running the Simulation
