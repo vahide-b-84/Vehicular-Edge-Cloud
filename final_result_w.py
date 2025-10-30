@@ -10,13 +10,9 @@ root_folder = os.path.join(BASE_DIR, "heterogeneous_results")
 output_excel = os.path.join(BASE_DIR, "Final_Result_W.xlsx")
 
 models = {
-    #"Pdqn": "Pdqn",
     "dqn": "dqn",
-    #"dqn1": "dqn1",
     "original_only": "original_only",
     "greedy": "greedy"
-    #"dqn3": "dqn3",
-    #"dqn2": "dqn2",
 }
 
 if os.path.exists(output_excel):
