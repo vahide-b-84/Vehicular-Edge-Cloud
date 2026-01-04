@@ -73,7 +73,6 @@ class DQNAgent:
         else:
             return int(np.argmax(q_values))
 
-
     def store_transition(self, transition):
         self.replay_buffer.append(transition)
         if len(self.replay_buffer) > self.buffer_size:
@@ -112,15 +111,3 @@ class DQNAgent:
         for target_param, param in zip(self.target_net.parameters(), self.policy_net.parameters()):
             target_param.data.copy_(self.tau * param.data + (1.0 - self.tau) * target_param.data)
 
-    def save_model(self, path):
-        torch.save({
-            'policy_net': self.policy_net.state_dict(),
-            'target_net': self.target_net.state_dict(),
-            'replay_buffer': self.replay_buffer
-        }, path)
-
-    def load_model(self, path):
-        checkpoint = torch.load(path, map_location=self.device)
-        self.policy_net.load_state_dict(checkpoint['policy_net'])
-        self.target_net.load_state_dict(checkpoint['target_net'])
-        self.replay_buffer = checkpoint.get('replay_buffer', [])
