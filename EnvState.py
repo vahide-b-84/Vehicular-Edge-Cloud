@@ -141,32 +141,11 @@ class EnvironmentState:
         task_id = task_object.id  # Extract the task ID from the task object
         self.tasks[task_id] = task_object
 
-    '''def remove_task(self, task_id):
-        """Remove a task object from the environment state."""
-        if task_id in self.tasks:
-            del self.tasks[task_id]
-        else:
-            print(f"Task with ID {task_id} not found in the task dictionary.")'''
-
     def get_task_by_id(self, task_id):
         """Get a task object by its ID."""
         return self.tasks.get(task_id)
    
-    '''def get_min_computation_demand(self):
-        """Get the minimum computation demand among all tasks."""
-        if not self.tasks:
-            print("No tasks available.")
-            return None
-        
-        min_demand = float('inf')  # Initialize min_demand with positive infinity
-        
-        for task_id, task_obj in self.tasks.items():
-            if task_obj.computation_demand < min_demand:
-                min_demand = task_obj.computation_demand
-        
-        return min_demand
-    '''    
-    def reset(self, new_simpy_env):
+    def reset(self, new_simpy_env, this_episode):
         """Reset the environment state."""
         self.env=new_simpy_env
         self.RSU_and_Vehicle.env=self.env
@@ -174,7 +153,7 @@ class EnvironmentState:
         self.tasks= {}
         self.num_completed_tasks = 0
         for vehicle in self.RSU_and_Vehicle.vehicles.values():
-            vehicle.reset(self.env)
+            vehicle.reset(self.env, this_episode)
         for rsu in self.RSU_and_Vehicle.RSUs.values():
             rsu.env_state = self
             rsu.reset(self.env)
