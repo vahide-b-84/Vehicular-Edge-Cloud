@@ -12,7 +12,7 @@ class parameters:
     missing_data_p = 0.8 # base: 0.00, 0.20 , 0.40 , 0.60 , 0.80
     trajectory_noise_p = 0.00 # base:0.00, 0.02, 0.04, 0.06, 0.08, 0.10, 0.20 , 0.30 , 0.40
     
-    total_episodes = 2
+    total_episodes = 500
     # RSUs and servers
     NUM_EDGE_SERVERS = 0
     RSUs_EDGE_SERVERS = (6,7)

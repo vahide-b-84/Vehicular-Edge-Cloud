@@ -1,9 +1,11 @@
+# Level-2 model
 import numpy as np
 import math
 import torch
 from DQN_template import DQNAgent
 from params import params
 import logging
+
 logger = logging.getLogger(__name__)
 
 class RSU:
@@ -15,21 +17,12 @@ class RSU:
         self.serverNo = Edge_number + params.NUM_CLOUD_SERVERS
         self.serverIDs = []
         self.rsu_and_vehicle = rsu_and_vehicle
-
         self.num_states = 4 * self.serverNo + 2
         self.num_actions = (self.serverNo * self.serverNo) + (self.serverNo * (self.serverNo - 1)) // 2
 
-        self.gamma = params.Local['gamma']
-        self.lr = params.Local['lr']
-        self.tau = params.Local['tau']
-        self.buffer_capacity = params.Local['buffer_capacity']
-        self.batch_size = params.Local['batch_size']
-        self.activation = params.Local['activation']
-        self.hidden_layers = params.Local['hidden_layers']
         self.epsilon_start = params.Local['epsilon_start']
         self.epsilon_end = params.Local['epsilon_end']
         self.epsilon_decay = params.Local['epsilon_decay']
-
 
         self.state = []
         self.action = None
@@ -46,18 +39,24 @@ class RSU:
         self.task_Assignments_info = []
         self.index_of_actions = []
 
-        self.local_model = DQNAgent(
-            num_states=self.num_states,
-            num_actions=self.num_actions,
-            hidden_layers=self.hidden_layers,
-            device='cuda' if torch.cuda.is_available() else 'cpu',
-            gamma=self.gamma,
-            lr=self.lr,
-            tau=self.tau,
-            buffer_size=self.buffer_capacity,
-            batch_size=self.batch_size,
-            activation=self.activation
-        )
+        device = 'cuda' if torch.cuda.is_available() else 'cpu'
+
+        if params.model_summary == "dqn":
+            
+            self.local_model = DQNAgent(
+                num_states=self.num_states,
+                num_actions=self.num_actions,
+                hidden_layers=params.Local['hidden_layers'],
+                device=device,
+                gamma=params.Local['gamma'],
+                lr=params.Local['lr'],
+                tau=params.Local['tau'],
+                buffer_size=params.Local['buffer_capacity'],
+                batch_size=params.Local['batch_size'],
+                activation=params.Local['activation'],
+            )
+            print(f"{self.rsu_id}: using DQNAgent as local model")
+
 
         self.cached_results = {}
 
@@ -139,7 +138,7 @@ class RSU:
             else:
                 flag = "n"
 
-        # reward constants DQN
+        # reward constants DQN1
         success_reward_weight = 1.0
         failure_penalty_weight = 20.0
         max_success_reward = 30.0
@@ -171,35 +170,28 @@ class RSU:
         for taskid, task_counter in self.pendingList:
             reward, delay = self.calcReward(taskid)
             if reward is not None:
-                
-                #print(f"[Episode {episode}] Task {taskid} → Delay: {delay:.2f}, Reward: {reward:.2f}, Status: {flag}")
-
                 self.episodic_reward += reward
                 self.episodic_delay += delay
                 self.rewardsAll.append(reward)
 
                 temp = list(self.tempbuffer[task_counter])
                 temp[2] = reward
-                if len(temp[3]) == 0:
-                    temp[3] = self.state
-                    print(self.rsu_id, "task:", taskid, "task_counter", task_counter, "new state was empty!")
-                
                 self.tempbuffer[task_counter] = tuple(temp)
-
                 s, a, r, s_ = self.tempbuffer[task_counter]
                 self.local_model.store_transition((s, a, r, s_))
-                
                 self.local_model.train_step()
                 removeList.append((taskid, task_counter))
-                
+
         for t in removeList:
             self.pendingList.remove(t)
             task = self.env_state.get_task_by_id(t[0])
-            self.task_Assignments_info.append((episode, task.id, task.vehicle_id,
-                                               task.primaryNode.server_id, task.primaryStarted, task.primaryFinished,
-                                               task.primaryStat, task.backupNode.server_id, task.backupStarted,
-                                               task.backupFinished, task.backupStat, task.z, task.execution_status_flag))
-         
+            self.task_Assignments_info.append((
+                episode, task.id, task.vehicle_id,
+                task.primaryNode.server_id, task.primaryStarted, task.primaryFinished,
+                task.primaryStat, task.backupNode.server_id, task.backupStarted,
+                task.backupFinished, task.backupStat, task.z, task.execution_status_flag
+            ))
+
     def forward_result(self, task):
         for rsuid in task.vehicle.rsu_subgraph:
             dist_rsu = self.rsu_and_vehicle.get_rsu_by_id(rsuid)
@@ -211,13 +203,17 @@ class RSU:
         task.selected_rsu_start_time = self.env.now 
     
     def receive_result(self, task):
+        #delay = 0 if task.selected_RSU.rsu_id == self.rsu_id else self.env_state.calculate_e2e_delay(task.selected_RSU.rsu_id, self.rsu_id, params.task_result_size)
         delay = 0 if task.selected_RSU.rsu_id == self.rsu_id else 1
         yield self.env.timeout(delay)
         self.cached_results[task.id] = task
+        #logger.info(f"                  {self.rsu_id} cached result of Task {task.id} at {self.env.now}")
+        #self.env.process(self.remove_cached_result(task.id, params.task_timeout_caching))
 
     def remove_cached_result(self, task_id, timeout):
         yield self.env.timeout(timeout)
         self.cached_results.pop(task_id, None)
+        #logger.info(f"RSU {self.rsu_id} pop cached result of Task {task_id} at {self.env.now}")
 
     def process_pendingList_and_log_result(self, episode):
         if self.taskCounter > 0:
@@ -246,6 +242,7 @@ class RSU:
         self.pendingList.clear()
         self.cached_results.clear()
 
+        
     @property
     def load(self):
         return len(self.pendingList)

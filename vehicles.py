@@ -1,4 +1,6 @@
-import csv
+import random
+from params import params
+
 import math
 #import logging
 import traci  # Importing TraCI for SUMO interactions
@@ -15,7 +17,11 @@ class Vehicle:
         self.speed = self.graph_network.vehicles[self.vehicle_id]["speed"]  # Get initial speed from graph_data
         self.Current_RSU = None
         self.position=None
-        self.rsu_subgraph = self.graph_network.vehicles[self.vehicle_id]["rsu_subgraph"]  # Get rsu_subgraph from graph_data
+        #self.rsu_subgraph = self.graph_network.vehicles[self.vehicle_id]["rsu_subgraph"] 
+        self.rsu_subgraph_true = list(self.graph_network.vehicles[self.vehicle_id]["rsu_subgraph"])
+        self.rsu_subgraph_pred = list(self.rsu_subgraph_true)
+        self.rsu_subgraph = self.rsu_subgraph_pred
+
         self.pending_tasks = []  # List of pending tasks
       
         #logger.info(f"Vehicle {self.vehicle_id} initialized.")
@@ -77,9 +83,33 @@ class Vehicle:
         writer.writerow([traci.simulation.getTime(), self.vehicle_id, closest_rsu])  #  Log vehicle-RSU association
         self.request_results()
         
-    def reset(self, new_SimPy_env):
+    def apply_path_prediction_noise(self, p, all_rsu_ids, seed=None):
+        rng = random.Random(seed)
+
+        true_set = set(self.rsu_subgraph_true)
+        all_set = set(all_rsu_ids)
+
+        # FN: drop some true RSUs
+        pred = {r for r in true_set if rng.random() > p}
+
+        # FP: add some non-true RSUs (scaled by path length)
+        non_true = list(all_set - true_set)
+        fp_count = int(round(p * len(true_set)))
+        if fp_count > 0 and non_true:
+            fp_count = min(fp_count, len(non_true))
+            pred.update(rng.sample(non_true, fp_count))
+
+        self.rsu_subgraph_pred = list(pred)
+        self.rsu_subgraph = self.rsu_subgraph_pred
+
+    def reset(self, new_SimPy_env, this_episode):
         """Reset the vehicle's state for a new simulation run."""
         self.env = new_SimPy_env
         self.Current_RSU = None
         self.pending_tasks.clear()
         #logger.info(f"Vehicle {self.vehicle_id} reset for new simulation run.")
+        p = params.trajectory_noise_p
+        seed = this_episode   
+        if params.scenario=="trajectory_noise":
+            all_rsu_ids = list(self.graph_network.rsus.keys())
+            self.apply_path_prediction_noise(p, all_rsu_ids, seed=seed)
