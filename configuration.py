@@ -8,8 +8,8 @@ class parameters:
     Permutation_Number = 3  # Permutation number for the scenario
     model_summary = "dqn"  # Option: "dqn"
     
-    scenario = "missing_data" # "trajectory_noise" , "missing_data"
-    missing_data_p = 0.8 # base: 0.00, 0.20 , 0.40 , 0.60 , 0.80
+    scenario = "base" # "base" ,"trajectory_noise" , "missing_data"
+    missing_data_p = 0.0 # base: 0.00, 0.20 , 0.40 , 0.60 , 0.80
     trajectory_noise_p = 0.00 # base:0.00, 0.02, 0.04, 0.06, 0.08, 0.10, 0.20 , 0.30 , 0.40
     
     total_episodes = 500
@@ -53,7 +53,7 @@ class parameters:
     global_hidden_layers_dqn = [128, 64]
     global_af_dqn = "relu"
     global_lr_dqn = 3e-4
-    global_gamma_dqn = 0.90
+    global_gamma_dqn = 0.85 # 0.90
     global_tau_dqn = 0.005
     global_buffer_capacity_dqn = 500_000
     global_batch_size_dqn = 256
